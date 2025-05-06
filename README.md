@@ -2,7 +2,7 @@
 
 # E-commerce Sales Dashboard
 
-### Dashboard Link : https://app.powerbi.com/links/0xn5bJY5aS?ctid=8d46a076-d093-416d-a57b-8692cde13bf8&pbi_source=linkShare
+### Dashboard Link : https://drive.google.com/file/d/1-s87q01xIbNRfy9_nsoPQDR-OMaCXb5M/view?usp=sharing
 
 ## Problem Statement
 
